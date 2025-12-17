@@ -49,9 +49,10 @@
 
 <!-- ===================== SNAKE ===================== -->
 ## 🐍 Contribution Snake
-<p align="center">
+[<p align="center">
   <img src="https://raw.githubusercontent.com/MinThantKo365/MinThantKo365/output/github-contribution-grid-snake.svg" />
-</p>
+</p>](https://raw.githubusercontent.com/MinThantKo365/MinThantKo365/output/github-contribution-grid-snake.svg
+)
 
 ---
 
