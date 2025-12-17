@@ -23,10 +23,8 @@
 <!-- ===================== ABOUT ===================== -->
 ## 👨‍💻 About Me
 - 🔭 Working on **Web Applications & AI Projects**
-- 🐍 Passionate about **Python & Deep Learning**
 - ⚙️ Backend: **Laravel, REST APIs**
-- 🎨 Frontend: **Vue, Inertia, Bootstrap**
-- 🚀 Currently learning **PyTorch & EfficientNet**
+- 🎨 Frontend: **Vue, Bootstrap**
 
 ---
 
