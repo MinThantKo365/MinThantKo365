@@ -1,10 +1,10 @@
-<!-- ===================== HEADER ===================== -->
-<h1 align="center">Hi 👋, I'm Min Thant Ko</h1>
-<h3 align="center">Full-Stack Developer | Laravel • Vue • Python • AI</h3>
+<!-- ===================== HERO ===================== -->
+<h1 align="center">Hi 👋 I'm Min Thant Ko</h1>
+<h3 align="center">Full-Stack Developer • Python Enthusiast • AI Learner</h3>
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&duration=3000&pause=1000&color=3CB371&center=true&vCenter=true&width=600&lines=Python+Lover+🐍;Laravel+%26+Vue+Developer;AI+%7C+Deep+Learning+Enthusiast;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=00C896&center=true&vCenter=true&width=600&lines=Python+Developer+🐍;Laravel+%26+Vue+Engineer;AI+%7C+Deep+Learning+Explorer;Building+Clean+%26+Scalable+Apps" />
 </p>
 
 ---
@@ -21,42 +21,46 @@
 ---
 
 <!-- ===================== ABOUT ===================== -->
-### 👨‍💻 About Me
-- 🔭 Currently working on **Web Apps & AI Projects**
-- 🐍 Love **Python**, Deep Learning & Computer Vision
-- ⚡ Backend: **Laravel, REST APIs**
-- 🎯 Frontend: **Vue, Inertia, Bootstrap**
-- 🚀 Learning **EfficientNet, PyTorch & Model Optimization**
+## 👨‍💻 About Me
+- 🔭 Working on **Web Applications & AI Projects**
+- 🐍 Passionate about **Python & Deep Learning**
+- ⚙️ Backend: **Laravel, REST APIs**
+- 🎨 Frontend: **Vue, Inertia, Bootstrap**
+- 🚀 Currently learning **PyTorch & EfficientNet**
 
 ---
 
 <!-- ===================== STATS ===================== -->
-
-
----
-
-<!-- ===================== LANGUAGES ===================== -->
-### 🧠 Most Used Languages
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinThantKo365&layout=compact&theme=tokyonight"/>
+  <img height="165" src="https://github-readme-stats.vercel.app/api?username=MinThantKo365&show_icons=true&theme=tokyonight" />
+  <img height="165" src="https://github-readme-streak-stats.herokuapp.com/?user=MinThantKo365&theme=tokyonight" />
 </p>
 
 ---
 
-<!-- ===================== SNAKE ANIMATION ===================== -->
-### 🐍 Contribution Snake (Python-style Animation)
+<!-- ===================== LANGUAGES ===================== -->
+## 🧠 Most Used Languages
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinThantKo365&layout=compact&theme=tokyonight" />
+</p>
+
+---
+
+<!-- ===================== SNAKE ===================== -->
+## 🐍 Contribution Snake
 <p align="center">
   <img src="https://raw.githubusercontent.com/MinThantKo365/MinThantKo365/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
 
-<!-- ===================== TOOLS ===================== -->
-### 🛠️ Tools & Technologies
+<!-- ===================== CODE STYLE ===================== -->
+## 🛠 Tech Stack (Python Style)
 ```python
-tools = {
+skills = {
     "backend": ["Laravel", "PHP", "MySQL"],
-    "frontend": ["Vue.js", "Bootstrap"],
+    "frontend": ["Vue.js", "Bootstrap", "Inertia"],
     "ai_ml": ["Python", "PyTorch", "TensorFlow"],
-    "devops": ["Git", "Linux"]
+    "tools": ["Git", "Linux"]
 }
