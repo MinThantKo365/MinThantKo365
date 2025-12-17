@@ -1,6 +1,6 @@
 <!-- ===================== HERO ===================== -->
 <h1 align="center">Hi 👋 I'm Min Thant Ko</h1>
-<h3 align="center">Full-Stack Developer • Python Enthusiast • AI Learner</h3>
+<h3 align="center">Web Developer • AI Learner</h3>
 
 <!-- Typing Animation -->
 <p align="center">
@@ -11,7 +11,7 @@
 
 <!-- ===================== BADGES ===================== -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/PHP-3776AB?style=for-the-badge&logo=php&logoColor=white"/>
   <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
   <img src="https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white"/>
