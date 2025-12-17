@@ -4,7 +4,7 @@
 
 <!-- Typing Animation -->
 <p align="center">
-  <img src="https://media.giphy.com/media/12775LeUHMZjNu/giphy.gif" width="500"/>
+  <img src="https://media.giphy.com/media/12775LeUHMZjNu/giphy.gif" width="840"/>
 </p>
 
 
