@@ -31,11 +31,7 @@
 ---
 
 <!-- ===================== STATS ===================== -->
-### 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=MinThantKo365&show_icons=true&theme=tokyonight" height="170"/>
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=YOUR_GITHUB_USERNAME&theme=tokyonight" height="170"/>
-</p>
+
 
 ---
 
@@ -50,7 +46,7 @@
 <!-- ===================== SNAKE ANIMATION ===================== -->
 ### 🐍 Contribution Snake (Python-style Animation)
 <p align="center">
-  <img src="https://raw.githubusercontent.com/YOUR_GITHUB_USERNAME/MinThantKo365/output/github-contribution-grid-snake.svg" />
+  <img src="https://raw.githubusercontent.com/MinThantKo365/MinThantKo365/output/github-contribution-grid-snake.svg" />
 </p>
 
 ---
