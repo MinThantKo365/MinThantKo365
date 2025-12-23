@@ -54,7 +54,7 @@
 ``` tech
 skills = {
     "backend": ["Laravel", "PHP", "MySQL"],
-    "frontend": ["Vue.js", "Bootstrap"],
+    "frontend": ["HTML","CSS","Vue.js", "Bootstrap"],
     "ai_ml": ["Python"],
     "tools": ["Git", "Linux"]
 }
