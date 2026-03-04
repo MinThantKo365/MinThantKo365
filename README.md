@@ -1,4 +1,5 @@
-<!-- ===================== HERO ===================== --><<h1 align="center"><img src="assets/aka.png" width="40" /> Hi 👋 I'm Min Thant Ko <img src="assets/Luffys-flag-2-icon.png" width="40" /></h1>
+<!-- ===================== HERO ===================== -->
+<h1 align="center"><img src="assets/aka.png" width="40" /> Hi 👋 I'm Min Thant Ko <img src="assets/Luffys-flag-2-icon.png" width="40" /></h1>
 <h3 align="center">Web Developer • AI Learner</h3>
 
 <!-- Typing Animation -->
