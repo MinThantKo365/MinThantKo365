@@ -7,6 +7,9 @@
   <img src="https://media.giphy.com/media/12775LeUHMZjNu/giphy.gif" width="840"/>
 </p>
 
+
+
+
 ---
 
 <!-- ===================== BADGES ===================== -->
@@ -35,51 +38,23 @@
 ---
 
 
-<!-- ===================== GITHUB STATS ===================== -->
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=MinThantKo365&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinThantKo365&layout=compact&langs_count=8&theme=tokyonight"/>
-</div>
+<!-- ===================== LANGUAGES ===================== -->
 
-<div align="center">
-  <img src="https://github-readme-streak-stats.demolab.com/?user=MinThantKo365&theme=tokyonight" alt="GitHub Streak" />
-</div>
+<!-- <p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinThantKo365&layout=compact&theme=tokyonight" />
+</p> -->
 
 ---
 
 <!-- ===================== SNAKE ===================== -->
-<div align="center">
-  <img src="https://github.com/MinThantKo365/MinThantKo365/blob/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</div>
 
----
 
-<!-- ===================== TECH STACK ===================== -->
+<!-- ===================== CODE STYLE ===================== -->
 ## 🛠 Tech Stack 
-
-```python
+``` tech
 skills = {
     "backend": ["Laravel", "PHP", "MySQL"],
-    "frontend": ["HTML", "CSS", "Vue.js", "Bootstrap"],
+    "frontend": ["HTML","CSS","Vue.js", "Bootstrap"],
     "ai_ml": ["Python"],
     "tools": ["Git", "Linux"]
 }
-```
-
----
-
-<!-- ===================== CONNECT ===================== -->
-## 📫 Connect with Me
-
-<p align="center">
-  <a href="https://github.com/MinThantKo365" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-  </a>
-  <!-- Add more social links as needed -->
-</p>
-
----
-
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=MinThantKo365&color=blueviolet&style=flat-square" alt="Profile views" />
-</div>
