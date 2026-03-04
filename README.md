@@ -39,10 +39,7 @@
 
 
 <!-- ===================== LANGUAGES ===================== -->
-## 🧠 Most Used Languages
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=MinThantKo365&layout=compact&theme=tokyonight" />
-</p>
+
 
 ---
 
@@ -58,21 +55,4 @@ skills = {
     "ai_ml": ["Python"],
     "tools": ["Git", "Linux"]
 }
-   "ai_ml": ["Python"],
-    "tools": ["Git", "Linux"]
-}
-   "ai_ml": ["Python"],
-    "tools": ["Git", "Linux"]
-}
-   "ai_ml": ["Python"],
-    "tools": ["Git", "Linux"]
-}
-   "ai_ml": ["Python"],
-    "tools": ["Git", "Linux"]
-}
-   "ai_ml": ["Python"],
-    "tools": ["Git", "Linux"]
-}
-   "ai_ml": ["Python"],
-    "tools": ["Git", "Linux"]
-}
+   
