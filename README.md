@@ -1,56 +1,71 @@
-<!-- ===================== HERO ===================== -->
-<h1 align="center"><img src="assets/aka.png" width="40" /> Hi 👋 I'm Min Thant Ko <img src="assets/Luffys-flag-2-icon.png" width="40" /></h1>
-<h3 align="center">Web Developer • AI Learner</h3>
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0077be,100:00ffcc&height=220&section=header&text=Min%20Thant%20Ko&fontSize=75&animation=fadeIn&fontAlignY=35&fontColor=ffffff" />
+  <p align="center">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=00FFCC&center=true&vCenter=true&width=435&lines=Web+Developer;Laravel+Enthusiast;AI+Learner;Problem+Solver" alt="Typing SVG" />
+  </p>
+</div>
 
-<!-- Typing Animation -->
-<p align="center">
-  <img src="https://media.giphy.com/media/12775LeUHMZjNu/giphy.gif" width="840"/>
-</p>
+<div align="center">
+  <img src="https://img.icons8.com/ios-filled/50/00ffcc/anchor.png" width="40" />
+  <br />
+  <font size="6" face="Georgia" color="#00ffcc">
+    <i>"A smooth sea never made a skilled sailor."</i>
+  </font>
+  <p>
+    <code><b>FRANKLIN D. ROOSEVELT</b></code>
+  </p>
 
-
-
-
----
-
-<!-- ===================== BADGES ===================== -->
-<p align="center">
-  <img src="https://img.shields.io/badge/PHP-474A8A?style=for-the-badge&logo=php&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Laravel-FF2D20?style=for-the-badge&logo=laravel&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D"/>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black"/>
-</p>
-
+  <br />
+</div>
 
 ---
 
-<!-- ===================== ABOUT ===================== -->
-## 👨‍💻 About Me
+###  <img src="assets/Luffys-flag-2-icon.png" width="20" /></h1> About Me
+- ☕ Fuel Source Powered by **Dark Roast** & Clean Syntax.
 - 🔭 Working on **Web Applications & AI Projects**
 - ⚙️ Backend: **Laravel, REST APIs**
 - 🎨 Frontend: **Vue, Bootstrap**
+---
+
+### 🛠 Tech Arsenal
+
+<table align="center" style="border: none;">
+  <tr>
+    <td align="center"><b>Backend</b></td>
+    <td align="center"><b>Frontend</b></td>
+    <td align="center"><b>Data & AI</b></td>
+    <td align="center"><b>Tools</b></td>
+  </tr>
+  <tr>
+    <td>
+      <img src="https://skillicons.dev/icons?i=php,laravel,mysql" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=vue,bootstrap,html,css" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch" />
+    </td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,vscode" />
+    </td>
+  </tr>
+</table>
+
 
 ---
 
-
-<!-- ===================== LANGUAGES ===================== -->
-
-
-<!-- ===================== SNAKE ===================== -->
-
-
-<!-- ===================== CODE STYLE ===================== -->
-## 🛠 Tech Stack 
+## ⚙️ Tech Stack 
 ``` tech
-skills = {
-    "backend": ["Laravel", "PHP", "MySQL"],
-    "frontend": ["HTML","CSS","Vue.js", "Bootstrap"],
-    "ai_ml": ["Python"],
-    "tools": ["Git", "Linux"]
-}
-   
+return [
+    'name' => 'Min Thant Ko',
+    'role' => 'Full Stack Laravel Developer',
+    'stack' => [
+        'backend' => ['Laravel', 'PHP', 'MySQL'],
+        'frontend' => ['Vue.js', 'HTML', 'CSS', 'Bootstrap'],
+    ],
+    'currently_learning' => ['Cloud Computing', 'AI'],
+    'tools' => ['Git', 'Linux'],
+    'mission' => 'Build scalable and maintainable applications',
+];
+```
