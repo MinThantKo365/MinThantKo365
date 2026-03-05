@@ -16,15 +16,14 @@
   </p>
 </div>
 
-###  <img src="assets/Luffys-flag-2-icon.png" width="24" /> About Me
+##  <img src="assets/Luffys-flag-2-icon.png" width="24" /> About Me
 - ☕ Fuel Source Powered by **Dark Roast** & Clean Syntax.
 - 🔭 Working on **Web Applications & AI Projects**
 - ⚙️ Backend: **Laravel, REST APIs**
 - 🎨 Frontend: **Vue, Bootstrap**
 
-___
 
-### 🛠 Tech Arsenal
+## 🛠 Tech Arsenal
 
 <table align="center" style="border: none;">
   <tr>
@@ -49,8 +48,6 @@ ___
   </tr>
 </table>
 
-
----
 
 ## ⚙️ Tech Stack 
 ``` tech
