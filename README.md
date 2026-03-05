@@ -14,18 +14,15 @@
   <p>
     <code><b>FRANKLIN D. ROOSEVELT</b></code>
   </p>
-
-  <br />
 </div>
-
----
 
 ###  <img src="assets/Luffys-flag-2-icon.png" width="24" /> About Me
 - ☕ Fuel Source Powered by **Dark Roast** & Clean Syntax.
 - 🔭 Working on **Web Applications & AI Projects**
 - ⚙️ Backend: **Laravel, REST APIs**
 - 🎨 Frontend: **Vue, Bootstrap**
----
+
+___
 
 ### 🛠 Tech Arsenal
 
