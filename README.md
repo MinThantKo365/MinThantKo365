@@ -20,7 +20,7 @@
 
 ---
 
-###  <img src="assets/Luffys-flag-2-icon.png" width="20" /></h1> About Me
+###  <img src="assets/Luffys-flag-2-icon.png" width="24" /> About Me
 - ☕ Fuel Source Powered by **Dark Roast** & Clean Syntax.
 - 🔭 Working on **Web Applications & AI Projects**
 - ⚙️ Backend: **Laravel, REST APIs**
