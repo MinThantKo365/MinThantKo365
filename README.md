@@ -53,7 +53,7 @@
 ``` tech
 return [
     'name' => 'Min Thant Ko',
-    'role' => 'Full Stack Laravel Developer',
+    'role' => 'Full Stack Developer',
     'stack' => [
         'backend' => ['Laravel', 'PHP', 'MySQL'],
         'frontend' => ['Vue.js', 'HTML', 'CSS', 'Bootstrap'],
