@@ -56,13 +56,13 @@
 
 ## ⚙️ Development Snapshot
 ```php
-return [
-    'developer' => 'Min Thant Ko',
-    'status'    => 'Available for new challenges',
-    'stack'     => [
-        'primary'   => ['Laravel', 'Vue.js', 'MySQL'],
-        'exploring' => ['Cloud Computing', 'AI Models'],
-    ],
-    'mission'   => 'Build scalable, maintainable, and efficient applications.',
-    'timezone'  => 'Asia/Yangon',
-];
+{
+  "developer": "Min Thant Ko",
+  "status": "Available for new challenges",
+  "stack": {
+    "primary": ["Laravel", "Vue.js", "MySQL"],
+    "exploring": ["Cloud Computing", "AI Models"]
+  },
+  "mission": "Build scalable, maintainable, and efficient applications.",
+  "timezone": "Asia/Yangon"
+}
